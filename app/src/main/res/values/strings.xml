@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Beacon Scanner</string>
+    <string name="custom_channel_name">ANDROID CHANNEL</string>
+</resources>
