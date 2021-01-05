@@ -22,7 +22,7 @@ public class SampleAutopilot extends Autopilot {
         Log.i(TAG, "_log onAirshipReady.");
         // Additional Airship SDK setup
 
-        String userEmail = "j.fahad@smard-transactions.de";
+        String userEmail = "fahadcse11@gmail.com";
 
         airship.getNamedUser().setId(UUID.nameUUIDFromBytes(userEmail.getBytes()).toString());
 
